@@ -6,6 +6,9 @@
     flex-direction: column;
 }
 
+.grid {
+    display: grid;
+}
 .justify-center {
     justify-content: center;
 }

@@ -1,0 +1,25 @@
+/* Login Form elements */
+
+.login-form {
+    width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 0 40px;
+    border: 3px solid black;
+}
+
+.login-form h1 {
+    text-align: center;
+}
+
+.login-form-forgot {
+    float: right;
+}
+
+.ant-col-rtl .login-form-forgot {
+    float: left;
+}
+
+.login-form-button {
+    width: 100%;
+}
