@@ -5,12 +5,18 @@ import './stylesheets/form-elements.css';
 import './stylesheets/custom-components.css';
 import './pages/login'
 import LoginForm from './pages/login';
+import RegistrationForm from "./pages/register";
+import HomePage from "./pages/home";
 
 function App() {
   return (
-    <div className="bg-primary flex justify-center items-center h-screen text-white">
+    <div>
 
-      <LoginForm />
+      < LoginForm />
+
+      < RegistrationForm />
+
+      < HomePage />
 
     </div>
   );

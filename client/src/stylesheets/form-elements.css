@@ -23,3 +23,27 @@
 .login-form-button {
     width: 100%;
 }
+
+/* Home Page Elements */
+
+.homepage {
+    /* width: 400px; */
+    background-color: yellowgreen;
+    border-radius: 10px;
+    padding: 20px 40px;
+    border: 3px solid black;
+}
+
+.homepage button {
+    margin-left: 35px;
+}
+
+/* Registration Page Elements */
+
+.registrationPage {
+    width: 400px;
+    background-color: skyblue;
+    border-radius: 10px;
+    padding: 20px 40px;
+    border: 3px solid black;
+}
